@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- styles.xml -->
+    <style name="SquareRoundedButtonStyle">
+        <item name="android:background">@drawable/square_rounded_button_background</item>
+        <item name="android:padding">16dp</item>
+    </style>
+
+</resources>
